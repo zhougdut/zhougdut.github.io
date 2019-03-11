@@ -25,5 +25,5 @@ For PDFs of our work, visit our publications page.
 Here are some collaborators that interest us.
 
 - [Andrej Cichocki - Skolovo Institute of Science and Technology](https://faculty.skoltech.ru/people/andrzejcichocki)
-- [Qibin Zhao - Guangdong University of Technology](http://automation.gdut.edu.cn/info/1094/4683.htm)
+- [Qibin Zhao - Center for Advanced Intelligence Project (AIP)](http://automation.gdut.edu.cn/info/1094/4683.htm)
 - [Yu Zhang - Stanford University](https://profiles.stanford.edu/176276?tab=bio)
