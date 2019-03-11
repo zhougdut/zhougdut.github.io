@@ -3,7 +3,7 @@ title: Publication
 permalink: /publication/
 ---
 
-See more publications in Zhou's  [google scholar citations profile](https://scholar.google.com/citations?user=MiFqJGcAAAAJ).<br>
+See more publications in Prof. Zhou's  [google scholar citations profile](https://scholar.google.co.jp/citations?hl=en&user=BIUkSFEAAAAJ&view_op=list_works&sortby=pubdate).<br>
 If you have any problem in using the codes, please feel free to contact me.
 <hr>
 ### 2018
