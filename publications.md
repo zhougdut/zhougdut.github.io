@@ -9,7 +9,10 @@ If you have any problem in using the codes, please feel free to contact me.
 ### 2018
 
 
-_[An Effective Tensor Completion Method Based on Multi-linear Tensor Ring Decomposition](http://www.apsipa.org/proceedings/2018/pdfs/0001344.pdf)_<br>Jinshi Yu, Guoxu Zhou, Qibin Zhao, Kan Xie<br>APSIPA, 2018
+_[An Effective Tensor Completion Method Based on Multi-linear Tensor Ring Decomposition](http://www.apsipa.org/proceedings/2018/pdfs/0001344.pdf)_<br>Jinshi Yu, Guoxu Zhou, Qibin Zhao, Kan Xie<br>APSIPA Annual Summit and Conference, 2018
+
+_[Orthogonal Random Projection Based Tensor Completion for Image Recovery](http://www.apsipa.org/proceedings/2018/pdfs/0001350.pdf)_ <br>Yali Feng, Guoxu Zhou, Yuning Qiu, Weijun Sun<br> 
+APSIPA Annual Summit and Conference, 2018
 
 _[EEG classification using sparse Bayesian extreme learning machine for brain–computer interface](https://link.springer.com/article/10.1007/s00521-018-3735-3)_<br>Zhichao Jin, Guoxu Zhou, Daqi Gao, Yu Zhang<br>
 Neural Computing and Applications, 2018

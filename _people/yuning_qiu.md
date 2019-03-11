@@ -35,3 +35,19 @@ My name is Yuning Qiu, a PhD student in the School of Automation at Guangdong Un
 - 2012.9 - 2016.7 &ensp; Bachelor in Department of Engineering &ensp;  South China Agricultural University
 - 2016.10 - 2017.1 &ensp; Student Intern &ensp; LABSP, RIKEN Brain Science Instutute, Japan
 - 2016.9 - now &ensp; PhD in Department of Automation &ensp; Guangdong University of Technology
+
+
+### Publications
+
+_Graph Regularized Nonnegative Tucker Decomposition for Tensor Data Representation_<br>Yuning Qiu, Guoxu Zhou, Yu Zhang, Shengli Xie<br>
+(Accepted to ICASSP 2019)
+
+
+_[Orthogonal Random Projection Based Tensor Completion for Image Recovery](http://www.apsipa.org/proceedings/2018/pdfs/0001350.pdf)_ <br>Yali Feng, Guoxu Zhou, Yuning Qiu, Weijun Sun<br> 
+APSIPA Annual Summit and Conference, 2018
+
+_[Comparative study on the classification methods for breast cancer diagnosis](http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-1c49c94f-8923-44d1-bf09-2559e673b642)_<br>Yuning Qiu, Guoxu Zhou, Qibin Zhao, Andrzej Cichocki<br>
+Bulletin of the Polish Academy of Sciences. Technical Sciences, 2018
+
+_[Deep Approximately Orthogonal Nonnegative Matrix Factorization for Clustering](https://arxiv.org/abs/1711.07437)_<br>Yuning Qiu, Guoxu Zhou, Kan Xie<br>
+arXiv, 2017
