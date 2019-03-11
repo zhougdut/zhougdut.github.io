@@ -9,7 +9,7 @@ description:        "this is a page for Guoxu Zhou lab, we are tensor decomposit
 
 
 # URL
-url:                http://zhoulab.github.io
+url:                http://zhougdut.github.io
 baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
