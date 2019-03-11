@@ -2,8 +2,6 @@
 name: Yuning Qiu
 position: phdstudent
 avatar: subject_zero.jpg
-twitter: ynqiu
-github: ynqiu
 joined: 2016
 ---
 
