@@ -1,0 +1,70 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# Basic
+name:               "Zhou lab"
+title:              "as called as Tensor Decomposition and Machine Learning Lab"
+description:        "this is a page for Guoxu Zhou lab, we are tensor decomposition and machine learning lab based in School of Automation, Guandong University of Technology, Guangzhou"
+
+
+# URL
+url:                http://zhoulab.github.io
+baseurl:
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           kramdown
+
+# Highlighter
+highlighter:        rouge
+
+# Navigation
+nav:
+  - name:           "home"
+    href:           "/"
+  - name:           "news"
+    href:           "/news"
+  - name:           "about"
+    href:           "/about"
+  - name:           "publications"
+    href:           "/publication"
+  - name:           "people"
+    href:           "/people"
+  - name:           "blog"
+    href:           "/blog"
+  # - name:           "resources"
+    # href:           "/resources"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "people"
+    values:
+      layout:       "profile"
+
+
+collections:
+  people:
+    output: true
+    permalink: /people/:title/index.html
+port: 4001
