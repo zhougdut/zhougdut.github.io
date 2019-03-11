@@ -8,7 +8,7 @@ joined: 2016
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 <i class="fa fa-envelope-o"></i> yuning.qiu.gd@gmail.com <br>
-<a href="https://github.com/ynqiu"><i class="fa fa-github"></i> Github</a>
+<!-- <a href="https://github.com/ynqiu"><i class="fa fa-github"></i> Github</a> -->
 
 My name is Yuning Qiu, a PhD student in the School of Automation at Guangdong University of Technology. I am currently work with Prof. Guoxu Zhou. 
 
@@ -36,4 +36,3 @@ My name is Yuning Qiu, a PhD student in the School of Automation at Guangdong Un
 - 2016.10 - 2017.1 &ensp; Student Intern &ensp; LABSP, RIKEN Brain Science Instutute, Japan
 - 2016.9 - now &ensp; PhD in Department of Automation &ensp; Guangdong University of Technology
 
-### Publications
