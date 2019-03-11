@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Kording lab (Bayesian Behavior Lab) page
 
 
