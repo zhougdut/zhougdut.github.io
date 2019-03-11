@@ -1,5 +1,5 @@
 ## About me
-Welcome to the github pages of guoxu zhou's laboratory. 
+Welcome to the github pages of Guoxu Zhou's laboratory. 
 <!-- # Kording lab (Bayesian Behavior Lab) page
 
 

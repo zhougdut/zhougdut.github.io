@@ -32,6 +32,6 @@ My name is Yuning Qiu, a PhD student in the School of Automation at Guangdong Un
 
 ### Education & Experience
 
-- 2012.9 - 2016.7 &ensp; Bachelor in Department of Engineer &ensp;  South China Agricultural University
+- 2012.9 - 2016.7 &ensp; Bachelor in Department of Engineering &ensp;  South China Agricultural University
 - 2016.10 - 2017.1 &ensp; Student Intern &ensp; LABSP, RIKEN Brain Science Instutute, Japan
 - 2016.9 - now &ensp; PhD in Department of Automation &ensp; Guangdong University of Technology
