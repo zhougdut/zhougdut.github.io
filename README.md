@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kording lab (Bayesian Behavior Lab) page
 
 
@@ -61,3 +62,6 @@ For lab position, you can choose position from 4 classes including `postdoc`, `g
 ## Add new publications
 
 All publications from the lab are located in `publications.md`. Please upload new publication on your own!
+=======
+# zhougdut.github.io
+>>>>>>> 2a1e268e705192532fc21c865ec223ec21701fa5
