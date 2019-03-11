@@ -1,4 +1,6 @@
-# Kording lab (Bayesian Behavior Lab) page
+## About me
+Welcome to the github pages of guoxu zhou's laboratory. 
+<!-- # Kording lab (Bayesian Behavior Lab) page
 
 
 This is repository for [Kording lab page](http://kordinglab.com/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
@@ -60,4 +62,4 @@ For lab position, you can choose position from 4 classes including `postdoc`, `g
 
 ## Add new publications
 
-All publications from the lab are located in `publications.md`. Please upload new publication on your own!
+All publications from the lab are located in `publications.md`. Please upload new publication on your own! -->
