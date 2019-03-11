@@ -10,17 +10,17 @@ permalink: /people/
 
 <div class="pos_header">
 {% if item == 'postdoc' %}
-<h3>Postdoctoral Fellows</h3>
+<h4>Postdoctoral Fellows</h4>
  {% elsif item == 'pi' %}
-<h3>Principal Investigator</h3>
+<h4>Principal Investigator</h4>
  {% elsif item == 'gradstudent' %}
-<h3>Graduate Students</h3>
+<h4>Graduate Students</h4>
  {% elsif item == 'visiting' %}
-<h3>Visiting Scholars</h3>
+<h4>Visiting Scholars</h4>
  {% elsif item == 'others' %}
-<h3>Honorary Members</h3>
+<h4>Honorary Members</h4>
  {% elsif item == 'alumni' %}
-<h3>Alumni</h3>
+<h4>Alumni</h4>
 {% endif %}
 </div>
 
