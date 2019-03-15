@@ -30,11 +30,9 @@ My name is ZeXin Wu, a Master student in the School of Automation at Guangdong U
 - 2018.9 - now &ensp; Master in Department of Automation &ensp; Guangdong University of Technology
 
 <!-- 可以写上你发表的文章和申请的专利 -->
-### Publications
 
 
 <!-- 一些荣誉啊之类的可以自己补上 -->
-### Awards 
 
 
 <!-- 

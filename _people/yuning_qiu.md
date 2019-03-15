@@ -1,7 +1,7 @@
 ---
 name: Yuning Qiu
 position: phdstudent
-avatar: subject_zero.jpg
+avatar: yuning_qiu.jpeg
 joined: 2016
 ---
 
