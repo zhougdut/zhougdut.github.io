@@ -1,0 +1,31 @@
+---
+name: Jiancong He
+position: masterstudent
+avatar: jiancong_he.jpg 
+joined: 2017 
+---
+
+
+<!-- (不用管，也不要删 -->
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+
+<!-- 你们的邮箱，自行替换 -->
+<i class="fa fa-envelope-o"></i> jianconghegdut@gmail.com <br> 
+
+
+<!-- 个人简介，好好写 -->
+My name is Jiancong He, a master student in the School of Automation at Guangdong University of Technology. I am doing research under the supervisor of Prof. Guoxu Zhou, and my current research interest is deep learning.
+
+
+<!-- 学习及经历等： -->
+### Education & Experience
+
+- 2013.9 - 2017.7 &ensp; Bachelor in Department of Automation &ensp; Guangdong University of Technology
+- 2017.9 - now &ensp; master student in Department of Automation &ensp; Guangdong University of Technology
+
+
+<!-- 
+P.S. 
+1. 这个文件的文件名要改成 mingzi_xingshi.md 的格式
+2. 你的个人正面照要裁剪成正方形，即图片的像素大小为600x600 或者800x800等 
+-->
