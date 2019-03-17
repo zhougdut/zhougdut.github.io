@@ -1,0 +1,27 @@
+---
+name: JiaYang_Chen
+position: masterstudent
+avatar: jiayang_chen.jpg 
+joined: 2018
+---
+
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+
+<i class="fa fa-envelope-o"></i> 823645215@qq.com <br> 
+
+<a href="https://github.com/gzz1996"><i class="fa fa-github"></i> Github</a>
+
+    My name is JiaYang Chen, a Master student in the School of Automation at Guangdong University of Technology. I am currently working with Prof. Guoxu Zhou, and my current research interests are Inertial navigation and GPS Satellite positioning.I am good at analysis,with a strong sense of operation.In my spare time.I prefer to read some English newspapers,like China Daily.
+
+
+### Education & Experience
+
+- 2014.9 - 2018.7 &ensp; Bachelor in Department of Electrical Engineering &ensp;  Tianhe college of Guangdong technical normal college.
+- 2018.9 - now &ensp; Master in Department of Automation &ensp; Guangdong University of Technology
+
+### Publications
+Patent1: Floating vehicle road condition information acquisition system based on GPS/AGPS positioning
+patent2: Android mobile navigation system based on car GPS and low power Bluetooth technology
+
+
+### Awards 

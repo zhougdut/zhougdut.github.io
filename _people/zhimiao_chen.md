@@ -1,7 +1,7 @@
 ---
-name: ZeXin Wu
+name: Zhimiao_Chen
 position: masterstudent
-avatar: zexin_wu.jpg 
+avatar: zhimiaochen.jpg 
 joined: 2018 
 ---
 
@@ -16,25 +16,25 @@ joined: 加入实验室年份
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 <!-- 你们的邮箱，自行替换 -->
-<i class="fa fa-envelope-o"></i> 708922954@qq.com <br> 
-
+<i class="fa fa-envelope-o"></i> zhimiaochen@mail2.gdut.edu.cn <br> 
 
 <!-- 个人简介，好好写 -->
-My name is ZeXin Wu, a Master student in the School of Automation at Guangdong University of Technology. I am currently work with Prof. Guoxu Zhou, and my current research interests are Beidou navigation and machine learning.
+My name is Zhimiao Chen, a master student in the School of Automation at Guangdong University of Technology. I am currently work with Prof. Qibin zhao, and my current research interests are Tensor Decomposition, Natural Language Processing and Deep learning.
 
 
 <!-- 学习及经历等： -->
 ### Education & Experience
 
-- 2014.9 - 2018.7 &ensp; Bachelor in Department of Engineering &ensp; Guangzhou Maritime University
+- 2012.9 - 2016.7 &ensp; Automation in Department of Electrical Engineering &ensp;University of South China 
+- 2016.7 - 2017.7 &ensp; Embedded Software Engineer &ensp; Haixing Power Technology Co., Ltd.
 - 2018.9 - now &ensp; Master in Department of Automation &ensp; Guangdong University of Technology
 
 <!-- 可以写上你发表的文章和申请的专利 -->
+### Publications
 
 
 <!-- 一些荣誉啊之类的可以自己补上 -->
-
-
+### Awards 
 <!-- 
 P.S. 
 1. 这个文件的文件名要改成 mingzi_xingshi.md 的格式
