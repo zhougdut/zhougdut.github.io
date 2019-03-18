@@ -280,3 +280,10 @@ Configuration file: /home/ynqiu/Documents/zhougdut.github.io/_config.yml
 [2019-03-18 17:29:33] ERROR `/images/people/tenghui_li.jpg' not found.
 [2019-03-18 17:30:09] ERROR `/images/people/jiayang_chen.jpg' not found.
 [2019-03-18 17:30:09] ERROR `/images/people/tenghui_li.jpg' not found.
+      Regenerating: 1 file(s) changed at 2019-03-18 19:38:54
+                    images/people/jiayang_chen.jpg
+[33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
+                    ...done in 0.780922983 seconds.
+                    
+[2019-03-18 19:39:00] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 19:39:09] ERROR `/images/people/tenghui_li.jpg' not found.
