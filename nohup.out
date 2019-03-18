@@ -1,0 +1,110 @@
+Configuration file: /home/ynqiu/Documents/zhougdut.github.io/_config.yml
+            Source: /home/ynqiu/Documents/zhougdut.github.io
+       Destination: /home/ynqiu/Documents/zhougdut.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
+                    done in 0.873 seconds.
+ Auto-regeneration: enabled for '/home/ynqiu/Documents/zhougdut.github.io'
+    Server address: http://0.0.0.0:4001
+  Server running... press ctrl-c to stop.
+[2019-03-17 16:23:42] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-17 16:23:42] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-17 16:23:48] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-17 20:45:25] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-17 20:45:36] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-17 20:45:39] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-17 20:45:48] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-17 20:45:55] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-17 20:46:06] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-17 20:46:09] ERROR `/images/people/jiayang_chen.jpg' not found.
+      Regenerating: 1 file(s) changed at 2019-03-17 22:38:27
+                    _people/yufan_wang.md
+[33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
+                    ...done in 0.664113431 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-17 22:38:36
+                    images/people/yufan_wang.jpg
+[33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
+                    ...done in 0.673456546 seconds.
+                    
+[2019-03-17 22:38:50] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-17 22:39:33] ERROR `/images/people/jiayang_chen.jpg' not found.
+      Regenerating: 1 file(s) changed at 2019-03-17 22:41:44
+                    _people/tenghui_li.md
+[33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
+                    ...done in 0.653482014 seconds.
+                    
+[2019-03-17 22:41:54] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-17 22:41:55] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-17 22:41:55] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-17 22:45:27] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-17 22:45:27] ERROR `/images/people/tenghui_li.jpg' not found.
+      Regenerating: 1 file(s) changed at 2019-03-17 22:45:42
+                    images/people/yuning_qiu.jpeg
+[33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
+                    ...done in 0.651008115 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-17 22:45:56
+                    images/people/yuning_qiu.jpg
+[33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
+                    ...done in 0.71162656 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-17 22:45:57
+                    images/people/yuning_qiu.jpg
+[33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
+                    ...done in 0.687770832 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-03-17 22:46:09
+                    _people/yuning_qiu.md
+                    _people/.history/yuning_qiu_20190317224608.md
+[33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
+                    ...done in 0.667638961 seconds.
+                    
+[2019-03-17 22:46:11] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-17 22:46:11] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-17 22:46:17] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-17 22:46:17] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-17 22:46:29] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-17 22:46:29] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 09:12:50] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-18 09:12:51] ERROR `/images/people/tenghui_li.jpg' not found.
+      Regenerating: 1 file(s) changed at 2019-03-18 12:44:42
+                    _people/junhua_zeng.md
+[33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
+                    ...done in 0.719646169 seconds.
+                    
+[2019-03-18 12:44:52] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 12:44:52] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-18 12:44:52] ERROR `/images/people/junhua_zeng.jpg' not found.
+      Regenerating: 1 file(s) changed at 2019-03-18 12:45:11
+                    _people/yumeng_ma.md
+[33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
+                    ...done in 0.748034496 seconds.
+                    
+[2019-03-18 12:45:15] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-18 12:45:15] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 12:45:15] ERROR `/images/people/junhua_zeng.jpg' not found.
+[2019-03-18 12:45:15] ERROR `/images/people/yumeng_ma.jpg' not found.
+      Regenerating: 1 file(s) changed at 2019-03-18 12:45:37
+                    images/people/yumeng_ma.jpg
+[33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
+                    ...done in 0.697663693 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-18 12:45:47
+                    images/people/junhua_zeng.jpg
+[33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
+                    ...done in 0.695692759 seconds.
+                    
+[2019-03-18 12:45:50] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 12:45:50] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-18 12:45:50] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-18 12:45:50] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 12:46:35] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-18 12:46:35] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 12:46:48] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-18 12:46:48] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 12:51:44] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-18 12:51:44] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 12:51:52] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-18 12:51:52] ERROR `/images/people/tenghui_li.jpg' not found.
