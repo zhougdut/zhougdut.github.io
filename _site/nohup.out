@@ -143,3 +143,28 @@ Configuration file: /home/ynqiu/Documents/zhougdut.github.io/_config.yml
       Regenerating: 1 file(s) changed at 2019-03-18 14:03:28
                     _people/shuji_chen.md
 [33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
+                    ...done in 0.809795948 seconds.
+                    
+[2019-03-18 14:03:32] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-18 14:03:32] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 14:03:38] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-18 14:03:38] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 14:03:43] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 14:03:43] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-18 14:03:46] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-18 14:03:46] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 14:08:20] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-18 14:08:20] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 14:12:54] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-18 14:12:54] ERROR `/images/people/tenghui_li.jpg' not found.
+      Regenerating: 1 file(s) changed at 2019-03-18 14:31:24
+                    _people/bangzhu_cao.md
+[33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
+                    ...done in 0.776214023 seconds.
+                    
+[2019-03-18 14:31:33] ERROR `/images/people/jiayang_chen.jpg' not found.
+[2019-03-18 14:31:33] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 14:31:34] ERROR `/images/people/bangzhu_cao.jpg' not found.
+      Regenerating: 1 file(s) changed at 2019-03-18 14:32:00
+                    images/people/bangzhu_cao.jpg
+[33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
