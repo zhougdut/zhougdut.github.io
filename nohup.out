@@ -287,3 +287,58 @@ Configuration file: /home/ynqiu/Documents/zhougdut.github.io/_config.yml
                     
 [2019-03-18 19:39:00] ERROR `/images/people/tenghui_li.jpg' not found.
 [2019-03-18 19:39:09] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 19:40:04] ERROR `/images/people/tenghui_li.jpg' not found.
+      Regenerating: 1 file(s) changed at 2019-03-18 20:01:14
+                    _people/zhuangzhan_gong.md
+[33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
+                    ...done in 0.801577743 seconds.
+                    
+[2019-03-18 20:01:25] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 20:01:26] ERROR `/images/people/zhuangzhan_gong.jpg' not found.
+      Regenerating: 1 file(s) changed at 2019-03-18 20:02:57
+                    images/people/zhuangzhan_gong.jpg
+[33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
+                    ...done in 0.795075541 seconds.
+                    
+[2019-03-18 20:03:05] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 20:03:38] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 20:03:48] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 20:03:49] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 20:04:27] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 20:04:28] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 20:04:34] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 20:04:50] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 20:05:48] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 20:06:18] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 20:06:19] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 20:09:05] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 20:13:09] ERROR `/images/people/tenghui_li.jpg' not found.
+Configuration file: /home/ynqiu/Documents/zhougdut.github.io/_config.yml
+            Source: /home/ynqiu/Documents/zhougdut.github.io
+       Destination: /home/ynqiu/Documents/zhougdut.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
+                    done in 2.863 seconds.
+ Auto-regeneration: enabled for '/home/ynqiu/Documents/zhougdut.github.io'
+    Server address: http://0.0.0.0:4001
+  Server running... press ctrl-c to stop.
+[2019-03-18 20:27:32] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 20:27:56] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 20:30:16] ERROR `/images/people/tenghui_li.jpg' not found.
+[2019-03-18 20:30:19] ERROR `/images/people/tenghui_li.jpg' not found.
+      Regenerating: 1 file(s) changed at 2019-03-19 09:34:30
+                    images/people/tenghui_li.jpg
+[33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
+                    ...done in 0.723486343 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-19 14:40:22
+                    images/people/zhuangzhan_gong.jpg
+[33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
+                    ...done in 0.765961246 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-19 14:40:27
+                    images/people/zhuangzhan_gong.jpg
+[33m    Liquid Warning: Liquid syntax error (line 1): Expected dotdot but found pipe in "{{(site.people | sort: 'joined' }}" in people.origin[0m
+                    ...done in 0.799996723 seconds.
+                    
